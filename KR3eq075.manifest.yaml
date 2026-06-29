@@ -1,0 +1,386 @@
+canonical_identifier: bkk:krp/KR3eq075/v1
+canonical_location: https://kanripo.org/bkk/KR3eq075/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 郎中醫話
+  identifiers:
+    krp: KR3eq075
+  tags:
+    kr-categories: KR3eq
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq075.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq075_000.yaml, hash: 'sha256:55b33d8736289e6c634affad4e4cc9307b75c20f9ad5d81fd27ff392e590af88'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq075_000.markers.yaml, hash: 'sha256:5e772cc65f15a8a82021fe50ac7eb1008e5250b15b8180be121799564d376cdd'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 10374
+  label: 正文
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d22
+    span:
+    - body
+    - 5216
+    - 5287
+  label: 八寶丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d23
+    span:
+    - body
+    - 5287
+    - 5475
+  label: 混條
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d24
+    span:
+    - body
+    - 5475
+    - 5788
+  label: 眼條叫作黏子
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d25
+    span:
+    - body
+    - 5788
+    - 5872
+  label: 癆傷咳嗽即屯子黏科
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d26
+    span:
+    - body
+    - 5872
+    - 6109
+  label: 噎隔膈即叫格黏科
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d27
+    span:
+    - body
+    - 6109
+    - 6191
+  label: 光子不著
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d28
+    span:
+    - body
+    - 6191
+    - 6301
+  label: 念光子不見經脈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d29
+    span:
+    - body
+    - 6301
+    - 6362
+  label: 肚子疼即念子科
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d30
+    span:
+    - body
+    - 6362
+    - 6466
+  label: 小兒癖積
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d31
+    span:
+    - body
+    - 6466
+    - 6515
+  label: 氏子香科
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d32
+    span:
+    - body
+    - 6515
+    - 7772
+  label: 川子香科
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d33
+    span:
+    - body
+    - 7772
+    - 7920
+  label: 癖積
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d34
+    span:
+    - body
+    - 7920
+    - 7983
+  label: 點黑痦子方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d35
+    span:
+    - body
+    - 7983
+    - 7996
+  label: 治神瘋
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d36
+    span:
+    - body
+    - 7996
+    - 8040
+  label: 脫肛方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d37
+    span:
+    - body
+    - 8040
+    - 8104
+  label: 生禿烏雲油能生鬚髮
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d38
+    span:
+    - body
+    - 8104
+    - 8173
+  label: 天才錠子
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d39
+    span:
+    - body
+    - 8173
+    - 8240
+  label: 地才錠子
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d40
+    span:
+    - body
+    - 8240
+    - 8310
+  label: 人才錠子
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d41
+    span:
+    - body
+    - 8310
+    - 8356
+  label: 治大人小兒耳膿水不幹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d42
+    span:
+    - body
+    - 8356
+    - 8375
+  label: 走馬牙疳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d43
+    span:
+    - body
+    - 8375
+    - 8423
+  label: 治陰瘡生肌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d44
+    span:
+    - body
+    - 8423
+    - 8458
+  label: 治肝虛醋目
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d45
+    span:
+    - body
+    - 8458
+    - 8520
+  label: 活目實症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d46
+    span:
+    - body
+    - 8520
+    - 8577
+  label: 治眼虛症不紅散花
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d47
+    span:
+    - body
+    - 8577
+    - 8646
+  label: 治眼虛症生雲翳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d48
+    span:
+    - body
+    - 8646
+    - 8667
+  label: 糊心散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d49
+    span:
+    - body
+    - 8667
+    - 8700
+  label: 心疼肝疼方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d50
+    span:
+    - body
+    - 8700
+    - 8733
+  label: 氣鼓方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d51
+    span:
+    - body
+    - 8733
+    - 8953
+  label: 散光
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d52
+    span:
+    - body
+    - 8953
+    - 9062
+  label: 喜立
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d53
+    span:
+    - body
+    - 9062
+    - 9248
+  label: 五鬼化胎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d54
+    span:
+    - body
+    - 9248
+    - 9470
+  label: 喜立
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d55
+    span:
+    - body
+    - 9470
+    - 9633
+  label: 喜立
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq075_jc_000-d2d56
+    span:
+    - body
+    - 9633
+    - 10374
+  label: 喜立
+  type: section
+  level: 2
+hash: sha256:ac17b80e19c64563a51b2b3d3166eb391a3fe73fbd8a7cc64992bbe375041012
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
